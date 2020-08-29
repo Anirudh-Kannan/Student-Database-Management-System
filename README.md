@@ -1,7 +1,7 @@
 # Student Database Management System
 This Student database management system is implemented using jsp and jdbc.
 
-The application was developed in netbeans and requires mysql to be installed locally on the system. The preinstalled glassfish server is used.
+The application was developed in netbeans and requires mysql to be installed locally on the system. The glassfish server, which comes as a default of netbeans is used.
 
 This application serves two clients, an admin and a student.
 <br />
